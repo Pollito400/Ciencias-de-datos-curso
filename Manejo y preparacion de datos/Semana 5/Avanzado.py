@@ -1,3 +1,5 @@
+import pandas as pd
+
 # Ejercicio 1: muestra un menú sencillo.
 def ejercicio_1():
     print("\n MENÚ PRINCIPAL ")
